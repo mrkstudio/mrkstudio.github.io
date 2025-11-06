@@ -1,0 +1,24 @@
+/* 
+ * Theme Name: Components
+ *
+ * Add any WordPress.com-specific CSS here
+ *
+ * This file is enqueued in /inc/wpcom.php
+ */ 
+ .color-body{
+    color: #212529 !important;
+ }
+ .w-15{
+    width: 15%!important;
+ }
+ .ul-kontakt{
+    margin-top: 30px;
+    list-style-type: none;
+ }
+ .ul-kontakt li{
+     padding: 10px;
+     border-bottom: 1px solid #ccc;
+ }
+ .ul-kontakt li:last-of-type{
+    border-bottom: none;
+}
